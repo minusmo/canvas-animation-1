@@ -1,0 +1,11 @@
+{
+  "name": "canvas-animation-1",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/minusmo/canvas-animation-1.git",
+  "author": "hojooneum <bldolphin96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.26.10"
+  }
+}
