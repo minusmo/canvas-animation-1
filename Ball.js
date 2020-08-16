@@ -1,4 +1,4 @@
-export class Ball {
+class Ball {
   constructor(stageWidth, stageHeight, speed, radius) {
     this.vx = speed;
     this.vy = speed;

@@ -1,5 +1,5 @@
-import { Ball } from "./Ball.js";
-import { Block } from "./Block.js";
+// import { Ball } from "./Ball.js";
+// import { Block } from "./Block.js";
 
 class App {
   constructor() {
@@ -11,7 +11,7 @@ class App {
     window.addEventListener("resize", this.resize.bind(this), false);
     this.resize();
 
-    this.ball = new Ball(this.stageWidth, this.stageHeight, 10, 60);
+    this.ball = new Ball(this.stageWidth, this.stageHeight, 5, 40);
     this.block = new Block(700, 30, 300, 450);
 
     window.requestAnimationFrame(this.animate.bind(this));
