@@ -3,3 +3,4 @@
 ## canvas animation training one
 
 A ball bouncing in viewport and on a block.
+![Screenshot](./screenshot.png)
